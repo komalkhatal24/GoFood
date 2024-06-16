@@ -1,0 +1,14 @@
+.carousel {
+    max-width: 1800px; /* Set maximum width */
+    margin: auto; /* Center the carousel */
+}
+
+.carousel .carousel-inner {
+    max-height: 700px; /* Set maximum height for the carousel */
+}
+
+.carousel-item img {
+    max-width: 100%; /* Ensure images are responsive and fit the carousel */
+    max-height: 100%; /* Ensure images are responsive and fit the carousel */
+    object-fit: cover; /* Prevent images from stretching */
+}

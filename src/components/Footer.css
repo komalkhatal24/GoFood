@@ -1,0 +1,29 @@
+/* footer.css */
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-top: 1px solid #ccc;
+  }
+  
+  .footer-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-logo-link {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .footer-text {
+    color: #888;
+    font-size: 24px;
+  }
+  
+ 
+  

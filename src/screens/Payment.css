@@ -1,0 +1,31 @@
+.payment-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding:10px ;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+
+  }
+  
+  .payment-form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .payment-form .form-label {
+    font-weight: bold;
+  }
+  
+  .payment-form .form-check-label {
+    margin-left: 10px;
+  }
+  
+  .payment-form .btn-primary {
+    margin-top: 10px;
+  }
+  
+  .payment-form .btn-secondary {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  
